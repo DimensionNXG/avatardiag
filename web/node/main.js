@@ -7,7 +7,7 @@ token service. Requests from this frontend application to token service should b
 GET_TOKEN_URL = The customer built token service (generates a new single use token). Sample app found in /token/node
 * Note: In production, requests should be loaded over https with CORS enabled.
 */
-const GET_TOKEN_URL = 'http://localhost:3000/token'; // get token URL from node example in this repo (/token/node)
+const GET_TOKEN_URL = 'http://34.71.84.13:3000/token'; // get token URL from node example in this repo (/token/node)
 
 
 
