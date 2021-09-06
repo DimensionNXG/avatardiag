@@ -1,4 +1,4 @@
-# avatardiag
+# Avatardiag
 
 UNEEQ has inbuilt support for Google's DialogFlow. We can directly include question and answers just like a text based chatbot and avatar provided by UNEEQ will try to lipsynch to the words that looks real. 
 
